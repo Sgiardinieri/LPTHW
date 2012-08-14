@@ -63,7 +63,7 @@ def shopping_mall():
         
             
 def starbucks():
-    print "Phew, With all of that shopping, you must be thirsty! Let's go to Starbucks!!!"
+    print "Phew, With all of that shopping, you must be thirtsty! Let's go to Starbucks!!!"
     print "You can order Coffee, Tea, or Water"
     print "Which will you be drinking today?"
 
